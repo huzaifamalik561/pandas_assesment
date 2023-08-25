@@ -8,8 +8,8 @@ This repository contains code and analysis for processing and analyzing student 
 
 Clone the repository:
 
-   git clone https://github.com/yourusername/student-data-analysis.git
-   cd student-data-analysis
+   git clone [https://github.com/yourusername/student-data-analysis.git
+   cd student-data-analysis](https://github.com/huzaifamalik561/pandas_assesment.git)
 Install the required dependencies (you may want to set up a virtual environment):
 
 bash
